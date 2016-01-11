@@ -67,6 +67,7 @@ We’ve been publishing [articles on Node.js](https://blog.risingstack.com/artic
 
 
 ## 2015
+
 > **Q1**
 
 - [IO.js 1.0.0](https://github.com/nodejs/node/commit/b82bb600370db7207a39e53329af228f6af3ffa1)
@@ -74,12 +75,14 @@ We’ve been publishing [articles on Node.js](https://blog.risingstack.com/artic
     - Joyent, IBM, Microsoft, PayPal, Fidelity, SAP and The Linux Foundation Join
 Forces to Support Node.js Community With Neutral and Open Governance
 - [IO.js and Node.js reconciliation proposal](https://github.com/nodejs/node/issues/978)
+
 > **Q2**
 
 - [npm Private Modules](https://www.npmjs.com/private-modules)
 - [Node lead TJ Fontaine is stepping down and leaving Joyent](http://venturebeat.com/2015/05/08/node-lead-tj-fontaine-is-stepping-down-and-leaving-joyent-too/)
     - A changing of the guard in Nodeland.
 - [Node.js and io.js are merging under the Node Foundation](https://github.com/nodejs/node/issues/1664#issuecomment-101828384)
+
 > **Q3**
 
 - [Trace - Visualized monitoring for Node.js microservices](http://trace.risingstack.com/)
