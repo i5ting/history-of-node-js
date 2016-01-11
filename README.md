@@ -71,7 +71,7 @@ We’ve been publishing [articles on Node.js](https://blog.risingstack.com/artic
 
 ## 2012
 
-<--
+<!--
 - [Node.js creator Ryan Dahl steps away from Node’s day-to-day](https://groups.google.com/forum/#!topic/nodejs/hfajgpvGTLY)
 - [Node.js v0.8.0 [stable] is out](https://nodejs.org/en/blog/release/v0.8.0/)
 - [Hapi, a Node.js framework](http://hueniverse.com/2012/12/20/hapi-a-prologue/)
