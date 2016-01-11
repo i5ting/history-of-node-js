@@ -12,9 +12,12 @@ We’ve been publishing [articles on Node.js](https://blog.risingstack.com/artic
 
 ## 2009
 
-- [Node.js now has a name](https://github.com/nodejs/node-v0.x-archive/commit/19478ed4b14263c489e872156ca55ff16a07ebe0)
-- [First very early preview of npm, the Node package manager](https://groups.google.com/forum/?hl=en#!topic/nodejs/erDWyS4xPw8)
-- [Ryan Dahl's (Creator of Node.js) Original Node.js Talk](https://www.youtube.com/watch?v=ztspvPYybIY)
+<!-- - [Node.js now has a name](https://github.com/nodejs/node-v0.x-archive/commit/19478ed4b14263c489e872156ca55ff16a07ebe0) -->
+- [此时Node.js仅仅有一个名字](https://github.com/nodejs/node-v0.x-archive/commit/19478ed4b14263c489e872156ca55ff16a07ebe0)
+<!-- - [First very early preview of npm, the Node package manager](https://groups.google.com/forum/?hl=en#!topic/nodejs/erDWyS4xPw8) -->
+- [npm（Node包管理器）初次发布早期预览版](https://groups.google.com/forum/?hl=en#!topic/nodejs/erDWyS4xPw8)
+<!-- - [Ryan Dahl's (Creator of Node.js) Original Node.js Talk](https://www.youtube.com/watch?v=ztspvPYybIY) -->
+- [Ryan Dahl's (Node.js作者) Original Node.js Talk](https://www.youtube.com/watch?v=ztspvPYybIY)
   - The first presentation on Node.js from Ryan Dahl at JSConf
 
 ## 2010
