@@ -31,14 +31,11 @@ We’ve been publishing [articles on Node.js](https://blog.risingstack.com/artic
 - [Ryan Dahl's AMA on Reddit](https://www.reddit.com/r/node/comments/h1m2o/i_am_ryan_dahl_creator_of_nodejs_ama/)
 - [](https://nodejs.org/en/blog/npm/npm-1-0-released/)[npm 1.0: Released](https://nodejs.org/en/blog/npm/npm-1-0-released/)
 - [The Node Beginner Book, an introduction to Node.js, is now complete](http://nodebeginner.org/index.html)
-
     - A comprehensive Node.js tutorial for beginners.
 - [LinkedIn uses Node.js](http://venturebeat.com/2011/08/16/linkedin-node/)
-
     - LinkedIn launched its completely overhauled mobile app with new features and new parts under the hood.
 - [Ryan Dahl talks about the history of Node.js and why he created it](https://www.youtube.com/watch?v=SAc0vQCC6UQ)
 - [Node.js in production at Uber](https://www.joyent.com/developers/videos/node-js-office-hours-curtis-chambers-uber)
-
     * Uber Engineering Manager Curtis Chambers explains why his company completely re-engineered their application using Node.js to increase efficiency and improve the partner and customer experience.
     
 ## 2012
