@@ -6,7 +6,7 @@
 
 We’ve been publishing [articles on Node.js](https://blog.risingstack.com/articles/) for over a year now, and since [2015 was quite a year for Node.js](https://blog.risingstack.com/what-is-nodejs-used-for-the-2015-nodejs-overview-report/), we thought it’d be interesting to look back at what exactly happened to Node.js so far, from the point where it was born. 
 
-我们发布的[articles on Node.js](https://blog.risingstack.com/articles/)距现在已经一年有余，而且2015年是对于Node.js很重要的一年([2015 was quite a year for Node.js](https://blog.risingstack.com/what-is-nodejs-used-for-the-2015-nodejs-overview-report/))，我们想回顾一下Node.js从它诞生以来到现在是如何发展的。
+我们发布的[articles on Node.js](https://blog.risingstack.com/articles/)距现在已经一年有余，而且2015年是对于Node.js很重要的一年([2015 was quite a year for Node.js](https://blog.risingstack.com/what-is-nodejs-used-for-the-2015-nodejs-overview-report/))，我们认为，回顾一下Node.js从它诞生以来到现在是如何发展的，将会很有趣。
 
 
 **This is the history of Node.js on a timeline, from 2009 until now (December 2015)**:
