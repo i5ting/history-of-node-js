@@ -1,10 +1,17 @@
 # History of Node.js on a Timeline
 
+# Node.js的历史一览
+
 原文：https://blog.risingstack.com/history-of-node-js/
 
 We’ve been publishing [articles on Node.js](https://blog.risingstack.com/articles/) for over a year now, and since [2015 was quite a year for Node.js](https://blog.risingstack.com/what-is-nodejs-used-for-the-2015-nodejs-overview-report/), we thought it’d be interesting to look back at what exactly happened to Node.js so far, from the point where it was born. 
 
+我们发布的[articles on Node.js](https://blog.risingstack.com/articles/)距现在已经一年有余，而且2015年是对于Node.js很重要的一年([2015 was quite a year for Node.js](https://blog.risingstack.com/what-is-nodejs-used-for-the-2015-nodejs-overview-report/))，我们想回顾一下Node.js从它诞生以来到现在是如何发展的。
+
+
 **This is the history of Node.js on a timeline, from 2009 until now (December 2015)**:
+
+**从2009年到现在（2015年12月），按照时间顺序显示的Node.js的历史**：
 
 
 <iframe src="//cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1rt8Xqpno-s7oNFCEKMYHoJexw24DIUcSkTABx2avcV8&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650" width="100%" height="650" frameborder="0"></iframe>
