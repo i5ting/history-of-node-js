@@ -168,7 +168,8 @@ We’ve been publishing [articles on Node.js](https://blog.risingstack.com/artic
 
 # 欢迎fork和反馈
 
-- write by `i5ting` i5ting@126.com
+- 译者 `@fundon` https://github.com/fundon
+- 译者 `@i5ting` i5ting@126.com
 
 如有建议或意见，请在issue提问或邮件
 
