@@ -77,7 +77,7 @@ We’ve been publishing [articles on Node.js](https://blog.risingstack.com/artic
 - [Hapi, a Node.js framework](http://hueniverse.com/2012/12/20/hapi-a-prologue/)
 -->
 
-- [Node.js之父Ryan Dahl退位](https://groups.google.com/forum/#!topic/nodejs/hfajgpvGTLY)
+- [Node.js 之父 Ryan Dahl 退位](https://groups.google.com/forum/#!topic/nodejs/hfajgpvGTLY)
 - [Node.js v0.8.0 [稳定版] 放出](https://nodejs.org/en/blog/release/v0.8.0/)
 - [Hapi, 一个 Node.js 框架](http://hueniverse.com/2012/12/20/hapi-a-prologue/)
 
